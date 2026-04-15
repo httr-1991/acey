@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-name="Phish Tour Schedule" generator-info-name="Manual Generator">
+  
+  <channel id="phish.tour">
+    <display-name lang="en">Phish Live</display-name>
+    <icon src="https://phish.com/wp-content/themes/phish/assets/images/phish-logo.png" />
+  </channel>
+
+  <programme start="20260416200000 -0700" stop="20260416233000 -0700" channel="phish.tour"><title>Phish: Sphere</title><desc>Night 1</desc></programme>
+  <programme start="20260417200000 -0700" stop="20260417233000 -0700" channel="phish.tour"><title>Phish: Sphere</title><desc>Night 2</desc></programme>
+  <programme start="20260418200000 -0700" stop="20260418233000 -0700" channel="phish.tour"><title>Phish: Sphere</title><desc>Night 3</desc></programme>
+  <programme start="20260423200000 -0700" stop="20260423233000 -0700" channel="phish.tour"><title>Phish: Sphere</title><desc>Night 4</desc></programme>
+  <programme start="20260424200000 -0700" stop="20260424233000 -0700" channel="phish.tour"><title>Phish: Sphere</title><desc>Night 5</desc></programme>
+  <programme start="20260425200000 -0700" stop="20260425233000 -0700" channel="phish.tour"><title>Phish: Sphere</title><desc>Night 6</desc></programme>
+  <programme start="20260430200000 -0700" stop="20260430233000 -0700" channel="phish.tour"><title>Phish: Sphere</title><desc>Night 7</desc></programme>
+  <programme start="20260501200000 -0700" stop="20260501233000 -0700" channel="phish.tour"><title>Phish: Sphere</title><desc>Night 8</desc></programme>
+  <programme start="20260502200000 -0700" stop="20260502233000 -0700" channel="phish.tour"><title>Phish: Sphere</title><desc>Night 9</desc></programme>
+
+  <programme start="20260707200000 -0500" stop="20260707233000 -0500" channel="phish.tour"><title>Phish: Kohl Center</title></programme>
+  <programme start="20260708200000 -0500" stop="20260708233000 -0500" channel="phish.tour"><title>Phish: Kohl Center</title></programme>
+
+  <programme start="20260710200000 -0400" stop="20260710233000 -0400" channel="phish.tour"><title>Phish: Ruoff Music Center</title></programme>
+  <programme start="20260711200000 -0400" stop="20260711233000 -0400" channel="phish.tour"><title>Phish: Ruoff Music Center</title></programme>
+  <programme start="20260712200000 -0400" stop="20260712233000 -0400" channel="phish.tour"><title>Phish: Ruoff Music Center</title></programme>
+
+  <programme start="20260714200000 -0400" stop="20260714233000 -0400" channel="phish.tour"><title>Phish: Enmarket Arena</title></programme>
+  <programme start="20260715200000 -0400" stop="20260715233000 -0400" channel="phish.tour"><title>Phish: Enmarket Arena</title></programme>
+
+  <programme start="20260717200000 -0400" stop="20260717233000 -0400" channel="phish.tour"><title>Phish: Coastal Credit Union Music Park</title></programme>
+
+  <programme start="20260718200000 -0400" stop="20260718233000 -0400" channel="phish.tour"><title>Phish: Merriweather Post Pavilion</title></programme>
+  <programme start="20260719200000 -0400" stop="20260719233000 -0400" channel="phish.tour"><title>Phish: Merriweather Post Pavilion</title></programme>
+
+  <programme start="20260721200000 -0400" stop="20260721233000 -0400" channel="phish.tour"><title>Phish: Empower Federal Credit Union Amphitheater</title></programme>
+
+  <programme start="20260722200000 -0400" stop="20260722233000 -0400" channel="phish.tour"><title>Phish: Madison Square Garden</title></programme>
+  <programme start="20260724200000 -0400" stop="20260724233000 -0400" channel="phish.tour"><title>Phish: Madison Square Garden</title></programme>
+  <programme start="20260725200000 -0400" stop="20260725233000 -0400" channel="phish.tour"><title>Phish: Madison Square Garden</title></programme>
+  <programme start="20260727200000 -0400" stop="20260727233000 -0400" channel="phish.tour"><title>Phish: Madison Square Garden</title></programme>
+  <programme start="20260729200000 -0400" stop="20260729233000 -0400" channel="phish.tour"><title>Phish: Madison Square Garden</title></programme>
+
+  <programme start="20260731200000 -0400" stop="20260731233000 -0400" channel="phish.tour"><title>Phish: Fenway Park</title></programme>
+  <programme start="20260801200000 -0400" stop="20260801233000 -0400" channel="phish.tour"><title>Phish: Fenway Park</title></programme>
+
+  <programme start="20260904200000 -0600" stop="20260904233000 -0600" channel="phish.tour"><title>Phish: Dick's Sporting Goods Park</title></programme>
+  <programme start="20260905200000 -0600" stop="20260905233000 -0600" channel="phish.tour"><title>Phish: Dick's Sporting Goods Park</title></programme>
+  <programme start="20260906200000 -0600" stop="20260906233000 -0600" channel="phish.tour"><title>Phish: Dick's Sporting Goods Park</title></programme>
+
+</tv>
